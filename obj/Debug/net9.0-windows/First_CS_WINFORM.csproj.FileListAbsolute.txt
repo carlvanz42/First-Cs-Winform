@@ -1,0 +1,15 @@
+C:\Users\wjianhong\Desktop\First-Cs-Winform\bin\Debug\net9.0-windows\First_CS_WINFORM.exe
+C:\Users\wjianhong\Desktop\First-Cs-Winform\bin\Debug\net9.0-windows\First_CS_WINFORM.deps.json
+C:\Users\wjianhong\Desktop\First-Cs-Winform\bin\Debug\net9.0-windows\First_CS_WINFORM.runtimeconfig.json
+C:\Users\wjianhong\Desktop\First-Cs-Winform\bin\Debug\net9.0-windows\First_CS_WINFORM.dll
+C:\Users\wjianhong\Desktop\First-Cs-Winform\bin\Debug\net9.0-windows\First_CS_WINFORM.pdb
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.AssemblyInfoInputs.cache
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.AssemblyInfo.cs
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.sourcelink.json
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.dll
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\refint\First_CS_WINFORM.dll
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.pdb
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\First_CS_WINFORM.genruntimeconfig.cache
+C:\Users\wjianhong\Desktop\First-Cs-Winform\obj\Debug\net9.0-windows\ref\First_CS_WINFORM.dll
